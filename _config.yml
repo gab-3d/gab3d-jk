@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: GAB 3D
+description: Appassionato di klipper e del progetto Voron
 theme: just-the-docs
-
+plugins:
+  - jemoji
 url: https://gab-3d.github.io/gab3d-jk
-
+color_scheme: gab-dark
 aux_links:
   Template Repository: https://github.com/gab-3d/gab3d-jk/
